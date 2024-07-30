@@ -29,9 +29,9 @@ such as Linear Regression, Random Forest Regressors, XGB Regressors, and MLP Reg
 
 ## Usage
 
-1. Prepare your dataset: Place your dataset in the data/ directory. Ensure it is named housing_data.csv or adjust the script accordingly.
-2. Run the main script:
-   python main.py
+1. Prepare your dataset: Place your dataset in the data/ directory. Ensure it is named housing prices-training set.csv or adjust the script accordingly.
+2. Open the Jupyter Notebook:
+   jupyter notebook "Regression-Based Analysis for Housing Price Prediction using Machine Learning.ipynb"
    The script will:
    -Preprocess the data
    -Perform feature engineering

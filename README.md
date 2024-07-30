@@ -19,7 +19,7 @@ This project focuses on predicting housing prices using various machine learning
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/BHARATH11112222/Regression-Based-Analysis-for-Housing-Price-Prediction-using-Machine-Learning.git
+   git clone https://github.com/BHARATH11112222/Regression-Based-Analysis-for-Housing-Price-Prediction-using-Machine-Learning_2.git
 
 2. Navigate to project directory:
    cd Regression-Based-Analysis-for-Housing-Price-Prediction-using-Machine-Learning

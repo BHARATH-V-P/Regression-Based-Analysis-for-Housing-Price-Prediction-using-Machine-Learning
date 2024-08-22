@@ -32,7 +32,7 @@ This project focuses on predicting housing prices using various machine learning
 
 1. Prepare your dataset: Place your dataset in the data/ directory. Ensure it is named housing_prices_training_set.csv or adjust the script accordingly.
 2. Open the Jupyter Notebook:
-   jupyter notebook "Regression-Based Analysis for Housing Price Prediction using Machine Learning.ipynb"
+   jupyter notebook "Regression-Based_Analysis_for_Housing_Price_Prediction_using_Machine_Learning_2.ipynb"
    The script will:
    -Preprocess the raw data
    -Train and evaluate models

@@ -54,6 +54,8 @@ This section presents the Spearman correlation coefficients and p-values between
 | SaleCondition | 0.320496  | 3.140674e-36         |
 
 
+Note-: Inverse RMSE corresponds to RMSE calculated in dollars with true value while RMSE corrsponds to metric evaluated on normalizaed target variable.
+
 Baseline Model Performance Metrics
 ......................................
 

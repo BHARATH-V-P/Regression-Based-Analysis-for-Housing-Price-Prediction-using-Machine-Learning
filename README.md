@@ -19,7 +19,7 @@ Housing prices are influenced by a variety of features, each contributing differ
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/BHARATH11112222/Regression-Based-Analysis-for-Housing-Price-Prediction-using-Machine-Learning_2.git
+   git clone https://github.com/BHARATH-V-P/Regression-Based-Analysis-for-Housing-Price-Prediction-using-Machine-Learning_2.git
 
 2. Navigate to project directory:
    cd Regression-Based-Analysis-for-Housing-Price-Prediction-using-Machine-Learning
@@ -32,7 +32,7 @@ Housing prices are influenced by a variety of features, each contributing differ
 
 1. Prepare your dataset: Place your dataset in the data/ directory. Ensure it is named housing_prices_training_set.csv or adjust the script accordingly.
 2. Open the Jupyter Notebook:
-   jupyter notebook "Regression-Based_Analysis_for_Housing_Price_Prediction_using_Machine_Learning_2.ipynb"
+   jupyter notebook "Regression-Based_Analysis_for_Housing_Price_Prediction_using_Machine_Learning_2_final.ipynb"
    The script will:
    -Data Preprocessing: Handles missing values, normalization and encoding of all predictors as needed.
    -Perform EDA neccessary for optimum model training. 
